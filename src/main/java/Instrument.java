@@ -1,4 +1,4 @@
-public class Instrument{
+public abstract class Instrument{
     
     public String manufacturer;
     public String name;
